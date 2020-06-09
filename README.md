@@ -4,7 +4,7 @@ This application can help you find some informations about the current weather i
 
 - Consuming weatherstack API to retrieve data about the weather
 
-#Instructions to run the app
+# Instructions to run the app
 
 - Clone the github project
 - run `npm i` to install the dependencies
